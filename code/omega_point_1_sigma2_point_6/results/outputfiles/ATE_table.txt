@@ -1,0 +1,234 @@
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0730703 & 0.0284807 & 0.0783919 & 0.0335202 \\
+	2 & 0.0784239 & 0.0236146 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0733444 & 0.0288628 & 0.0782298 & 0.0336823 \\
+	2 & 0.080534 & 0.0254838 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0730703 & 0.0284807 & 0.0783919 & 0.0335202 \\
+	2 & 0.0784239 & 0.0236146 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0733444 & 0.0288628 & 0.0782298 & 0.0336823 \\
+	2 & 0.080534 & 0.0254838 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0701255 & 0.0237274 & 0.0783919 & 0.0335202 \\
+	2 & 0.07674 & 0.0256759 & 0.0772706 & 0.028683 \\
+\end{tabular}
+
+
+\begin{tabular}{r|cccc}
+	& mean\_err\_learned & mean\_err\_learned\_w\_zsel & mean\_err\_marg & mean\_err\_allZ\\
+	\hline
+	& Float64 & Float64 & Float64 & Float64\\
+	\hline
+	1 & 0.0699634 & 0.0242128 & 0.0782298 & 0.0336823 \\
+	2 & 0.0786009 & 0.0258272 & 0.0793807 & 0.0281874 \\
+\end{tabular}
