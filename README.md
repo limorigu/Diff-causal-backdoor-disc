@@ -2,7 +2,7 @@
 Differentiable Causal Backdoor Discovery
 ============
 
-The following repository contains all code and results to reproduce results in the AISTATS 2020 paper: **Differentiable Causal Backdoor Discovery**.
+The following repository contains all code and results to reproduce results in the AISTATS 2020 paper: [**Differentiable Causal Backdoor Discovery**](https://arxiv.org/pdf/2003.01461.pdf).
 
 
 ## Repo sructure and content
@@ -30,7 +30,7 @@ The following repository contains all code and results to reproduce results in t
 |______ histplots --> this folder contains the resuling histogram plots (on top of them showing in above notebook).
 ```
 
-## Code dependencies:
+## Code dependencies
 
 * ProgressMeter
 * StatsBase
@@ -51,7 +51,7 @@ The following repository contains all code and results to reproduce results in t
 * Colors
 * ArgParse
 
-## to install in one go, in Julia REPL: 
+## to install in one go, in Julia REPL 
 `import Pkg`
 
 `Pkg.add(["ProgressMeter", "StatsBase", "Statistics", "TexTables", "DataFrames", "Gadfly", "Compose", "PyCall", "ForwardDiff", "Random", "Printf", 
